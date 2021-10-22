@@ -19,3 +19,9 @@ Start your Webpack React App on dev-server
 ```
 $ npm start
 ```
+
+## Command Line Options
+This package also provides TypeScript functionality.
+```
+-t, --typescript   construct the view with tsx.
+```
