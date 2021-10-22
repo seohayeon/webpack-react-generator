@@ -1,0 +1,23 @@
+{
+  "name": "@seohayeon/webpack-react-generator",
+  "version": "1.0.2",
+  "description": "generate webpack react project",
+  "main": "index.js",
+  "bin": {
+    "react": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/seohayeon/webpack-react-generator.git"
+  },
+  "keywords": ["create react app","react webpack","react webpack genarator"],
+  "author": "seohayeon",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "mkdirp": "^1.0.4"
+  }
+}
