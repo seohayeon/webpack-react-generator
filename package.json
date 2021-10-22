@@ -1,6 +1,6 @@
 {
-  "name": "@seohayeon/webpack-react-generator",
-  "version": "1.0.2",
+  "name": "webpack-react-generator",
+  "version": "1.0.0",
   "description": "generate webpack react project",
   "main": "index.js",
   "bin": {
